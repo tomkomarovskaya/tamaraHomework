@@ -66,6 +66,7 @@ class ViewController: UIViewController {
         let table9 = Array(1...10).map({"\(n9) * \($0) = \(n9 * $0)"})
         print("\(table9)")
         
+        //have a nice day
     }
     
 }
